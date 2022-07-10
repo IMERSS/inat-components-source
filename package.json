@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@imerss/inat-components-utils": "^1.0.1"
+    "@imerss/inat-components-utils": "^1.1.0"
   }
 }
